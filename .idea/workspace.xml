@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d607d8a7-b09e-419e-b42a-6469a4ed48fe" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/express_demo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/async-demo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongo-demo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1207">
+              <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="72" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mongo_exercises/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/async-demo/promise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/express_demo/middleware/logger.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/express_demo/routes/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="courses.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/express_demo/routes/courses.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>use</find>
+      <find>app</find>
+      <find>course</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/npm-demo.js" />
+        <option value="$PROJECT_DIR$/npm-demo/index.js" />
+        <option value="$PROJECT_DIR$/lion-lib/index.js" />
+        <option value="$PROJECT_DIR$/api_poc/app.js" />
+        <option value="$PROJECT_DIR$/express_demo/auth.js" />
+        <option value="$PROJECT_DIR$/express_demo/app.js" />
+        <option value="$PROJECT_DIR$/express_demo/logger.js" />
+        <option value="$PROJECT_DIR$/express_demo/authorization.js" />
+        <option value="$PROJECT_DIR$/express_demo/public/readme.txt" />
+        <option value="$PROJECT_DIR$/express_demo/config/default.json.js" />
+        <option value="$PROJECT_DIR$/express_demo/config/development.json" />
+        <option value="$PROJECT_DIR$/express_demo/config/production.json" />
+        <option value="$PROJECT_DIR$/express_demo/config/default.json" />
+        <option value="$PROJECT_DIR$/express_demo/config/custom-environment-variables.json" />
+        <option value="$PROJECT_DIR$/express_demo/views/index.pug" />
+        <option value="$PROJECT_DIR$/express_demo/routes/home.js" />
+        <option value="$PROJECT_DIR$/express_demo/routes/courses.js" />
+        <option value="$PROJECT_DIR$/express_demo/index.js" />
+        <option value="$PROJECT_DIR$/express_demo/routes/posts.js" />
+        <option value="$PROJECT_DIR$/async-demo/promise.js" />
+        <option value="$PROJECT_DIR$/async-demo/index.js" />
+        <option value="$PROJECT_DIR$/mongo-demo/index.js" />
+        <option value="$PROJECT_DIR$/mongo_exercises/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/mongo-demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mongo_exercises/node_modules" />
+    <handled-path value="$PROJECT_DIR$/npm-demo/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/async-demo/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/@types/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/@types/babylon/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/camelize/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/config/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/content-security-policy-builder/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/dasherize/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/dns-prefetch-control/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/doctypes/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/dont-sniff-mimetype/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/expect-ct/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/frameguard/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/helmet-csp/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/helmet/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/hide-powered-by/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/hpkp/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/hsts/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/ienoopen/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/is-expression/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/is-expression/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/isemail/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/joi/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/js-stringify/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/lodash.reduce/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/morgan/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/nocache/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/platform/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-attrs/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-code-gen/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-error/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-filters/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-lexer/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-linker/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-load/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-parser/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-runtime/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-strip-comments/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug-walk/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/pug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/referrer-policy/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/token-stream/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/topo/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/x-xss-protection/package.json" />
+      <path value="$PROJECT_DIR$/express_demo/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/lion-lib/package.json" />
+      <path value="$PROJECT_DIR$/mongo-demo/package.json" />
+      <path value="$PROJECT_DIR$/mongo_exercises/package.json" />
+      <path value="$PROJECT_DIR$/npm-demo/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="width" value="1160" />
+    <option name="height" value="1091" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="async-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="express_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="express_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="express_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="express_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="mongo-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="mongo_exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dasso\Desktop\Node_Learning\express_demo\middleware" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js (4)">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/express_demo" />
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/async-demo" />
+    <configuration name="index.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/mongo-demo" />
+    <configuration name="index.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/mongo_exercises" />
+    <configuration name="promise.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="promise.js" working-dir="$PROJECT_DIR$/async-demo" />
+    <list>
+      <item itemvalue="Node.js.index.js (1)" />
+      <item itemvalue="Node.js.index.js (2)" />
+      <item itemvalue="Node.js.promise.js" />
+      <item itemvalue="Node.js.index.js (3)" />
+      <item itemvalue="Node.js.index.js (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js (4)" />
+        <item itemvalue="Node.js.index.js (3)" />
+        <item itemvalue="Node.js.index.js (2)" />
+        <item itemvalue="Node.js.promise.js" />
+        <item itemvalue="Node.js.index.js (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d607d8a7-b09e-419e-b42a-6469a4ed48fe" name="Default" comment="" />
+      <created>1528244005637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528244005637</updated>
+      <workItem from="1528244011678" duration="20744000" />
+      <workItem from="1528756417827" duration="7033000" />
+      <workItem from="1528856927112" duration="5006000" />
+      <workItem from="1546922813257" duration="491000" />
+      <workItem from="1571759471138" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33336000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="72" y="-7" width="2495" height="1455" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17089882" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3944591" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32896462" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/express_demo/index.js</url>
+          <line>17</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/async-demo/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/middleware/logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo_exercises/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6.11- Async and Await.zip/6.11- Async and Await/async-demo/promise.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6.11- Async and Await.zip/6.11- Async and Await/async-demo/promise-api.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6.11- Async and Await.zip/6.11- Async and Await/async-demo/index.js" />
+    <entry file="file://$PROJECT_DIR$/async-demo/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/middleware/logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-demo/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/middleware/logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-demo.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="1133" column="4" selection-start-line="1133" selection-start-column="4" selection-end-line="1133" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-demo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lion-lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/authorization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/public/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/config/prod.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/config/default.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/config/dev.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/config/custom-environment-variables.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/routes/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/middleware/logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express_demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-demo/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6.11- Async and Await.zip/6.11- Async and Await/async-demo/promise.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6.11- Async and Await.zip/6.11- Async and Await/async-demo/promise-api.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6.11- Async and Await.zip/6.11- Async and Await/async-demo/index.js" />
+    <entry file="file://$PROJECT_DIR$/mongo-demo/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="72" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo_exercises/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
