@@ -11,7 +11,7 @@
   "dependencies": {
     "config": "^3.2.3",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^5.2.1",
     "joi": "^13.1.0",
     "mongodb": "^3.3.3",
     "mongoose": "^5.7.6",
